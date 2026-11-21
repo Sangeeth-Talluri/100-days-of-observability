@@ -22,7 +22,8 @@ Every day, one topic, in a proper learning sequence. Every topic is explained **
 ## Index of days
 
 - ✅ [Day 1 — What is observability?](days/day-001-what-is-observability/README.md)
-- Day 2 — Why observability matters: the unknown-unknowns problem *(tomorrow)*
+- ✅ [Day 2 — Why observability matters: the unknown-unknowns problem](days/day-002-why-observability-matters/README.md)
+- Day 3 — Telemetry: the data observability runs on *(tomorrow)*
 
 *(One new day is added every morning. The index and the curriculum checkboxes are updated with each day.)*
 

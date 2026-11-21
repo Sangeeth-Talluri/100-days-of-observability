@@ -11,7 +11,7 @@ Progress is tracked by the checkboxes. The daily lesson lives in `days/day-NNN-t
 ## Phase 1 — Foundations (Days 1–10): What observability really is
 
 - [x] Day 1 — What is observability? (definition, and how it is different from monitoring)
-- [ ] Day 2 — Why observability matters: the unknown-unknowns problem
+- [x] Day 2 — Why observability matters: the unknown-unknowns problem
 - [ ] Day 3 — Telemetry: the data observability runs on
 - [ ] Day 4 — The three pillars: metrics, logs, traces (overview)
 - [ ] Day 5 — Signals beyond the pillars: events, profiles, and dumps
