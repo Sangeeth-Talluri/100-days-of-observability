@@ -24,7 +24,8 @@ Every day, one topic, in a proper learning sequence. Every topic is explained **
 - ✅ [Day 1 — What is observability?](days/day-001-what-is-observability/README.md)
 - ✅ [Day 2 — Why observability matters: the unknown-unknowns problem](days/day-002-why-observability-matters/README.md)
 - ✅ [Day 3 — Telemetry: the data observability runs on](days/day-003-telemetry/README.md)
-- Day 4 — The three pillars: metrics, logs, traces (overview) *(tomorrow)*
+- ✅ [Day 4 — The three pillars: metrics, logs, traces](days/day-004-the-three-pillars/README.md)
+- Day 5 — Signals beyond the pillars: events, profiles, and dumps *(tomorrow)*
 
 *(One new day is added every morning. The index and the curriculum checkboxes are updated with each day.)*
 
