@@ -14,7 +14,7 @@ Progress is tracked by the checkboxes. The daily lesson lives in `days/day-NNN-t
 - [x] Day 2 — Why observability matters: the unknown-unknowns problem
 - [x] Day 3 — Telemetry: the data observability runs on
 - [x] Day 4 — The three pillars: metrics, logs, traces (overview)
-- [ ] Day 5 — Signals beyond the pillars: events, profiles, and dumps
+- [x] Day 5 — Signals beyond the pillars: events, profiles, and dumps
 - [ ] Day 6 — OpenTelemetry: the vendor-neutral standard
 - [ ] Day 7 — Instrumentation: manual vs automatic
 - [ ] Day 8 — The terms map: observability vs monitoring vs APM vs logging
