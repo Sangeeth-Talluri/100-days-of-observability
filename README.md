@@ -27,7 +27,8 @@ Every day, one topic, in a proper learning sequence. Every topic is explained **
 - ✅ [Day 4 — The three pillars: metrics, logs, traces](days/day-004-the-three-pillars/README.md)
 - ✅ [Day 5 — Signals beyond the pillars: events, profiles, and dumps](days/day-005-signals-beyond-the-pillars/README.md)
 - ✅ [Day 6 — OpenTelemetry: the vendor-neutral standard](days/day-006-opentelemetry/README.md)
-- Day 7 — Instrumentation: manual vs automatic *(tomorrow)*
+- ✅ [Day 7 — Instrumentation: manual vs automatic](days/day-007-instrumentation/README.md)
+- Day 8 — The terms map: observability vs monitoring vs APM vs logging *(tomorrow)*
 
 *(One new day is added every morning. The index and the curriculum checkboxes are updated with each day.)*
 
