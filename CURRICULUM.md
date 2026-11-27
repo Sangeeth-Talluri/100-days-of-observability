@@ -17,7 +17,7 @@ Progress is tracked by the checkboxes. The daily lesson lives in `days/day-NNN-t
 - [x] Day 5 — Signals beyond the pillars: events, profiles, and dumps
 - [x] Day 6 — OpenTelemetry: the vendor-neutral standard
 - [x] Day 7 — Instrumentation: manual vs automatic
-- [ ] Day 8 — The terms map: observability vs monitoring vs APM vs logging
+- [x] Day 8 — The terms map: observability vs monitoring vs APM vs logging
 - [ ] Day 9 — The observability lifecycle: collect → ship → store → query → visualize → alert
 - [ ] Day 10 — Cardinality: the one concept that decides your power and your bill
 
